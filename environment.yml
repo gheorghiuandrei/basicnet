@@ -1,0 +1,9 @@
+name: basic
+channels:
+  - defaults
+dependencies:
+  - matplotlib=3.1
+  - numpy=1.17
+  - Pillow=7.0
+  - python=3.7
+  - scikit-learn==0.22
